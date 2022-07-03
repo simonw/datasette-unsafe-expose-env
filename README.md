@@ -7,7 +7,7 @@
 
 Datasette plugin to expose some environment variables at `/-/env` - for debugging
 
-> :warning: **This plugin is extremely unsafe: it could expose secrets!** - Only install this if you are absolutely sure you understand the consequences of doing so.
+> :warning: **This plugin is no longer maintained**. [datasette-expose-env](https://datasette.io/plugins/datasette-expose-env) is recommended as a safe replacement that only exposes environment variables that you have explicitly configured.
 
 ## Installation
 
